@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"net"
-	"tcp-client/socket"
+	"github.com/jxufeliujj/tcp-client/socket"
 )
 
 func main() {

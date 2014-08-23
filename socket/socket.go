@@ -6,7 +6,7 @@ import (
 	"encoding/binary"
 	"fmt"
 	"net"
-	"tcp-proto/client"
+	"github.com/jxufeliujj/tcp-proto/client"
 	"time"
 )
 
